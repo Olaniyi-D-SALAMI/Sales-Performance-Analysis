@@ -1,2 +1,2 @@
 # Sales-Performance-Analysis
-This contain a sales analysis project done in Excel and MySQL
+The repository  includes lessons covering SELECT, WHERE, GROUP BY, ORDER BY, joins, string functions, subqueries, CTEs, window functions, and other MySQL concepts using this dataset  
